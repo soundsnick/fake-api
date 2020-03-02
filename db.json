@@ -15,8 +15,7 @@
         { 
             "id": 3, 
             "title": "Women. The girls.", 
-            "content": "Women. The girls.
-            The female part of the people. Those from whom we go crazy and fall asleep in long thinking, those whose beauty we admire, and in the end, someone must maintain a balance of stupidity in nature. Joke. These are our girls, wives, sisters and mothers.", 
+            "content": "Women. The girls. The female part of the people. Those from whom we go crazy and fall asleep in long thinking, those whose beauty we admire, and in the end, someone must maintain a balance of stupidity in nature. Joke. These are our girls, wives, sisters and mothers.", 
             "created_at": "20.03.2020" 
         },
         { 
@@ -30,6 +29,6 @@
             "title": "Business", 
             "content": "If you are not going to change your thinking and work on your life, then direct it in the right direction IMMEDIATELY close this article and GO. There will only be truth, and if you are not ready to accept this life as it is, this is not my problem, you will come back when you magically, MAY BE, all the nonsense will be knocked out of your head ...", 
             "created_at": "20.03.2020" 
-        },
+        }
     ]
 }
