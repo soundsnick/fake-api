@@ -1,0 +1,35 @@
+{
+    "posts": [
+        { 
+            "id": 1, 
+            "title": "My journey with Vue", 
+            "content": "I started learning Vue.js about a half year ago. I feel myself steady the way I'm improving.", 
+            "created_at": "20.03.2020" 
+        },
+        { 
+            "id": 2, 
+            "title": "Relations", 
+            "content": "Relations. The physical and moral necessity of a living organism. No matter how logical we are, we still want in our hearts external heat and emotional storm. However, how much does the real relationship coincide with our perception and anticipation?", 
+            "created_at": "20.03.2020" 
+        },
+        { 
+            "id": 3, 
+            "title": "Women. The girls.", 
+            "content": "Women. The girls.
+            The female part of the people. Those from whom we go crazy and fall asleep in long thinking, those whose beauty we admire, and in the end, someone must maintain a balance of stupidity in nature. Joke. These are our girls, wives, sisters and mothers.", 
+            "created_at": "20.03.2020" 
+        },
+        { 
+            "id": 4, 
+            "title": "My goal", 
+            "content": "I had a dream. A dream has turned into a goal. And goals tend to come to people and come true. And no, this is not another business motivational speech. This article is a reflection of me today, and is rather a memorable letter to myself for the future, rather than some kind of guide to creating a business or a source of inspiration and motivation. For those who need motivation - just understand one thing, you are your only work motivation.", 
+            "created_at": "20.03.2020" 
+        },
+        { 
+            "id": 5, 
+            "title": "Business", 
+            "content": "If you are not going to change your thinking and work on your life, then direct it in the right direction IMMEDIATELY close this article and GO. There will only be truth, and if you are not ready to accept this life as it is, this is not my problem, you will come back when you magically, MAY BE, all the nonsense will be knocked out of your head ...", 
+            "created_at": "20.03.2020" 
+        },
+    ]
+}
